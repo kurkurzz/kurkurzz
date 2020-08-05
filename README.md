@@ -23,7 +23,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
 
 [twitter]: https://twitter.com/apezzz_z
 [instagram]: https://www.instagram.com/apezzz_
