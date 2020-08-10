@@ -3,7 +3,7 @@
 ## I'm a Student at University of Malaya.
 - 📃 I’m currently studying Artificial Intelligence for my degree.
 - 🎇 My CGPA is 3.98.
-- 🌱 I’m currently learning flutter to fill up my sem break.
+- 🌱 I’m currently learning flutter to fill up my semester break.
 - 🚀 2020 Goals: Mastering Flutter and Firebase.
 - 👾 I play CS:GO, Rainbow Six Siege, Rocket League, Valorant and many more!
 
