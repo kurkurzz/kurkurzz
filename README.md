@@ -1,10 +1,11 @@
 ### Hi there, I'm Hafiz 👋
 
 ## I'm a Student at University of Malaya.
-- 📃 I’m currently studying Artificial Intelligence for my degree
-- 🌱 I’m currently learning flutter as side project
-- 🚀 2020 Goals: Develop a mobile application and make money from it
-- 👾 Pro at CS:GO, Rainbow Six Siege, Rocket League, Valorant and many more!
+- 📃 I’m currently studying Artificial Intelligence for my degree.
+- 🎇 My CGPA is 3.98.
+- 🌱 I’m currently learning flutter to fill up my sem break.
+- 🚀 2020 Goals: Mastering Flutter and Firebase.
+- 👾 I play CS:GO, Rainbow Six Siege, Rocket League, Valorant and many more!
 
 ### Connect with me:
 
@@ -24,9 +25,10 @@
 
 <img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
 
----
 
-<img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&layout=compact" />
+<img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&theme=dracula&hide=Swift,Kotlin,Objective-C" />
+
+
 
 [twitter]: https://twitter.com/apezzz_z
 [instagram]: https://www.instagram.com/apezzz_
