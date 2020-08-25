@@ -28,9 +28,6 @@
 <img height="32" width="32"  src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />&nbsp;
 <img height="32" width="32"  src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />&nbsp;
 
-<br />
-<br />
-
 ---
 <br>
 <img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
