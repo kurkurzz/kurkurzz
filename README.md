@@ -14,14 +14,11 @@
 [<img alt="kurkurzz | Instagram" width="30px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" />&nbsp;&nbsp;][instagram]
 [<img alt="kurkurzz | Steam" width="30px" src="https://seeklogo.com/images/S/steam-logo-73274B19E3-seeklogo.com.png" />&nbsp;&nbsp;][steam]
 
-<br />
-
 ### Languages and Tools:
 
 <img height="32" width="32" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" /> &nbsp;
 <img height="32" width="32" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />&nbsp;
 <img height="32" width="32" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />&nbsp;
-<img height="32" width="32" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />&nbsp;
 <img height="32" width="32" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />&nbsp;
 <img height="32" width="95"  src="https://seeklogo.com/images/D/dart-programming-language-logo-FF81164A13-seeklogo.com.png" />
 <img height="32" width="32"  src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />&nbsp;
