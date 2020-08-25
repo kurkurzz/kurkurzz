@@ -25,8 +25,13 @@
 
 <img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
 
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
-<img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&theme=dracula&hide=Swift,Kotlin,Objective-C" />
+
+<img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&theme=dracula&hide=Swift,Kotlin,Objective-C,HTML,Tex" />
 
 
 
