@@ -18,27 +18,18 @@
 
 ### Languages and Tools:
 
-<img height="32" width="32"  src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" /> 
-&nbsp;
-<img height="32" width="32"  src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />
-&nbsp;
-<img height="32" width="32"  src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />
-&nbsp;
-<img height="32" width="32" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
-&nbsp;
+<img height="32" width="32" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" /> &nbsp;
+<img height="32" width="32" src="https://avatars1.githubusercontent.com/u/14101776?s=200&v=4" />&nbsp;
+<img height="32" width="32" src="https://avatars2.githubusercontent.com/u/1335026?s=200&v=4" />&nbsp;
+<img height="32" width="32" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />&nbsp;
+<img height="32" width="32" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />&nbsp;
 <img height="32" width="95"  src="https://seeklogo.com/images/D/dart-programming-language-logo-FF81164A13-seeklogo.com.png" />
-&nbsp;
-<img height="32" width="32"  src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />
-&nbsp;
-<img height="32" width="32"  src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />
-&nbsp;
-<img height="32" width="32"  src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />
-&nbsp;
-<img height="32" width="32"  src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />
-&nbsp;
-<img height="32" width="32"  src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />
-&nbsp;
-<img height="32" width="32"  src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
+<img height="32" width="32"  src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" />&nbsp;
+<img height="32" width="32"  src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png" />&nbsp;
+<img height="32" width="32"  src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" />&nbsp;
+<img height="32" width="32"  src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />&nbsp;
+<img height="32" width="32"  src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />&nbsp;
+<img height="32" width="32"  src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />&nbsp;
 
 <br />
 <br />
