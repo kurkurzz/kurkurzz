@@ -27,7 +27,6 @@
 <img height="32" width="32"  src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" />&nbsp;
 <img height="32" width="32"  src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />&nbsp;
 <img height="32" width="32"  src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />&nbsp;
-<img height="32" width="32"  src="https://avatars3.githubusercontent.com/u/23211?s=200&v=4" />&nbsp;
 <img height="32" width="32"  src="https://www.logolynx.com/images/logolynx/s_b8/b824f520f94010449a5e961d57c7e89c.png" />&nbsp;
 
 ---
