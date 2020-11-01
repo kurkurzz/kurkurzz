@@ -2,8 +2,9 @@
 
 ## I'm a Student at University of Malaya.
 - 📃 I’m currently studying Artificial Intelligence for my degree.
+- 🐣 Part of Developer Student Club, University of Malaya
 - 🎇 My CGPA is 3.98.
-- 🌱 I’m currently learning flutter to fill up my semester break.
+- 🌱 Excited and open to new stuff and technology.
 - 🚀 2020 Goals: Mastering Flutter and Firebase.
 - 👾 I play CS:GO, Rainbow Six Siege, Rocket League, Valorant and many more!
 
@@ -29,6 +30,11 @@
 <img height="32" width="32"  src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />&nbsp;
 <img height="32" width="32"  src="https://www.logolynx.com/images/logolynx/s_b8/b824f520f94010449a5e961d57c7e89c.png" />&nbsp;
 
+### Familiar with API:
+<img height="32" width="32"  src="http://pngimg.com/uploads/telegram/telegram_PNG30.png" />&nbsp;
+<img height="32" width="32"  src="https://user-images.githubusercontent.com/64152220/97799226-99642200-1be1-11eb-882f-3101cea8ee6d.png" />&nbsp;
+<img height="32" width="32"  src="https://user-images.githubusercontent.com/64152220/97799263-d0d2ce80-1be1-11eb-8e71-993daf90edcc.png" />&nbsp;
+<img height="32" width="32"  src="https://www.freepngimg.com/thumb/map/60306-maps-brand-graphic-design-hq-image-free-png.png" />&nbsp;
 ---
 <br>
 <img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
