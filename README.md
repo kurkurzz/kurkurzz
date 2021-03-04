@@ -1,3 +1,5 @@
+![Profile views](https://gpvc.arturio.dev/kurkurzz)
+
 ### Hi there, I'm Hafiz 👋
 
 ## I'm a Student at University of Malaya.
