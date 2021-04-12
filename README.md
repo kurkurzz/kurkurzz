@@ -50,8 +50,6 @@
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 </p>
 
-*Basic knowledge
-
 <br>
 <img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
 <img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&theme=dracula&hide=Swift,Kotlin,Objective-C,HTML,CSS,Tex" />
