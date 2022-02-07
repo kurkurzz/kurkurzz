@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/kurkurzz)
-
 ### Hi there, I'm Hafiz 👋
 
 ## I'm a Student at University of Malaya.
@@ -10,7 +8,6 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-[<img alt="Instagram" src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 ### Languages:
@@ -48,12 +45,8 @@
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>
 </p>
 
-<br>
-<img align="left" alt="kurkurzz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kurkurzz&show_icons=true&hide_border=true&hide=stars,prs?count_private=true&theme=dracula" />
-<img align="left" alt="kurkurzz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurkurzz&theme=dracula&hide=Swift,Kotlin,Objective-C,HTML,CSS,Tex" />
 
 [twitter]: https://twitter.com/apezzz_z
-[instagram]: https://www.instagram.com/apezzz_
 [linkedin]: https://www.linkedin.com/in/muhammadnurhafiz
 [email]: nurhafiz2000@gmail.com
 
