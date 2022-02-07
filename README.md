@@ -4,9 +4,7 @@
 
 ## I'm a Student at University of Malaya.
 - 📃 I’m currently studying Artificial Intelligence for my degree.
-- 🐣 Part of Committe Members, Developer Student Club, University of Malaya
-- 🌱 Excited and open to new stuff and technology.
-- 👾 I play CS:GO, Rainbow Six Siege, Rocket League, Valorant and many more!
+- Full stack, data science, deep learning you name it, I do it.
 
 ### Connect with me:
 
