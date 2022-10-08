@@ -16,6 +16,6 @@ Data Scientist + Data Engineer + Fullstack Developer
 
 ### Connect with me:
 
-website: byhafiz.com
+website: https://byhafiz.com
 <br/>email: nurhafiz2000@gmail.com
 <br/>linkedin: https://www.linkedin.com/in/muhammadnurhafiz/
