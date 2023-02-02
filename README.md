@@ -2,7 +2,7 @@
 
 Data Scientist + Data Engineer + Fullstack Developer
 
-### Frameworks:
+### Tech Stacks:
 <p>
 	<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 	<img alt="AWS" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
