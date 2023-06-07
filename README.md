@@ -1,6 +1,6 @@
 ### I'm Hafiz 👋
 
-Data Scientist + Fullstack Developer
+AI Engineer + Fullstack Developer
 
 ### Tech Stacks:
 <p>
