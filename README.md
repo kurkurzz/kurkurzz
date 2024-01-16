@@ -18,5 +18,5 @@ AI Engineer + Fullstack Developer
 ### Connect with me:
 
 Website: https://byhafiz.com
-<br/>Email: nurhafiz2000@gmail.com
+<br/>Email: hafiz@enygma.ai
 <br/>Linkedin: https://www.linkedin.com/in/hafiz-enygma/
