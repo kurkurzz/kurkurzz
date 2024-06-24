@@ -18,4 +18,4 @@ AI Engineer + Fullstack Developer
 
 Website: https://byhafiz.com
 <br/>Email: hafiz@enygma.ai
-<br/>Linkedin: https://www.linkedin.com/in/hafiz-enygma/
+<!-- <br/>Linkedin: https://www.linkedin.com/in/hafiz-enygma/ -->
